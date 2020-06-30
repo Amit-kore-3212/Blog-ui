@@ -1,0 +1,55 @@
+.h1{
+    background-color: antiquewhite;
+    padding: 10px,20px,10px,20px;
+    font-weight: bold;
+    text-align: center;
+    border-left:20px solid wheat;
+    border-right: 20px solid wheat;
+    border-radius: 10px;
+    border-width: 200px;
+    margin-top: 10px;
+    font-style: italic;
+    color: teal;
+}
+.ul{
+    list-style-type: circle;
+    text-align: center;
+    font-weight: bold;
+    font-style:italic ;
+    padding:20px;
+    border:10px solid whitesmoke;
+    margin: 20px;
+}
+.li{
+    text-decoration: none;
+    padding:20px;
+    border:1px solid grey;
+    border-spacing: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    border-left: 20px solid gray;
+    border-right: 20px solid grey;
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
+.div{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    background-attachment: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 3;
+   
+  
+
+}
+.action-to-use{
+    padding:10px;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    justify-content: stretch;
+    align-items: vertical;
+    color: lightseagreen;
+}
